@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Backend certification",
   "main": "index.js",
+  "keywords": ["freecodecamp", "certification", "node", "express", "mongo"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
